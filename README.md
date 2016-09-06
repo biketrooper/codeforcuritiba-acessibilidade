@@ -101,7 +101,7 @@ Termos / Direito autoral
 # Outros pontos ACESSIBILIDADE CODE FOR CURITIBA
 
 - Produção de copos, pratos e objetos para PcD com projetos premiados do Pequeno Cotolengo
-- Eye tracker de baixo custo / IR / Camera: de movimentar um cursor de mouse pelo olhar até uma canudo de água para perto da boca;
+- Eye tracker de baixo custo / IR / Camera: de movimentar um cursor de mouse pelo olhar até uma canudo de água para perto da boca. [Relloquent Project - Using Intel RealSense Technology for Alternative Communication](https://devmesh.intel.com/projects/407);
 - Braço robôtico
 - Comando de voz / Alexa like...
 - Assentos especiais/personalizados com design open source através de maker spaces / parcerias como APR
